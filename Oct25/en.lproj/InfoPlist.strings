@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName = "Hello, World!";
+CFBundleDisplayName = "¡Hola, Mundo!";
+CFBundleDisplayName = "!أهﻼ بالعالم";
+
